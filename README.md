@@ -17,7 +17,7 @@
  📫 [Meu Linkedin]() <br><br>
 
 <center> <h2> Meus conhecimentos 💾 </h2>
-<center> <img src="https://icongr.am/devicon/python-original.svg?size=132&color=c74343" width ="100px">  <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width ="100px">  <img src="https://icongr.am/devicon/java-original.svg?size=132&color=c74343" width = "100px"> <img src="https://icongr.am/devicon/docker-original.svg?size=132&color=1a1919" width = "100px"> <img src="https://icongr.am/devicon/linux-original.svg?size=132&color=1a1919" width = "100px"> <img src="https://icongr.am/devicon/github-original.svg?size=132&color=1a1919" width = "100px"> </center>
+<center> <img src="https://icongr.am/devicon/python-original.svg?size=132&color=c74343" width ="90px">  <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width ="90px">  <img src="https://icongr.am/devicon/java-original.svg?size=132&color=c74343" width = "90px"> <img src="https://icongr.am/devicon/docker-original.svg?size=132&color=1a1919" width = "90px"> <img src="https://icongr.am/devicon/linux-original.svg?size=132&color=1a1919" width = "90px"> <img src="https://icongr.am/devicon/github-original.svg?size=132&color=1a1919" width = "90px"> </center>
 
 
 <!--
