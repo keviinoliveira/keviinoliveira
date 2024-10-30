@@ -1,7 +1,7 @@
 <!-- Cabeçalho -->
 <center> <h2> Hello World 👋 </h2> </center>
 
-![gif](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
+<center>![gif](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif) </center>
 
 
 -----------
