@@ -14,10 +14,10 @@
 🐧 Apaixonado por tecnologia <br>
 🔍 Em fase de construção de aprendizado
 
- [Meu Linkedin]()
+ 📫 [Meu Linkedin]()
 
 
-![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD00An4E9VuutHK7TDcNFcfeZ8ZbB1oCJTGg&s)
+<img src="https://icongr.am/devicon/python-original.svg?size=132&color=c74343" width ="100px">  <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width ="100px">  <img src="https://icongr.am/devicon/java-original.svg?size=132&color=c74343" width = "100px">
 
 
 <!--
