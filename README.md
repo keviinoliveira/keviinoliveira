@@ -30,7 +30,7 @@
 |Python Fundamentals | [Certificado]() |
 |Python Back End Developer | [Certificado]() |
 |Machine Learning Specialist | [Certificado]() |
-|GitHub Certification | [Certificado]() |
+|GitHub Certification | [Certificado](https://hermes.dio.me/certificates/DHT2IECQ.pdf) |
 |Docker Fundamentals | [Certificado]() |
 |NodeJs Fundamentals | [Certificado]() |
 |Java Developer | [Certificado]() |
