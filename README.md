@@ -1,8 +1,11 @@
 <!-- Cabeçalho -->
 ## Hello World 👋
- 
+
+<p align = "center"> 
+
 ![gif](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)  
 
+</p>
 
 
 -----------
@@ -15,8 +18,9 @@
  📫 [Meu Linkedin]() <br><br>
 
 ## Meus conhecimentos 💾
-
+<p align = "center">
 <img src="https://icongr.am/devicon/python-original.svg?size=132&color=c74343" width ="50px"><img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width ="50px"><img src="https://icongr.am/devicon/java-original.svg?size=132&color=c74343" width = "50px"><img src="https://icongr.am/devicon/docker-original.svg?size=132&color=1a1919" width = "50px"><img src="https://icongr.am/devicon/linux-original.svg?size=132&color=1a1919" width = "50px"> 
+</p>
 
 
 -----
