@@ -1,9 +1,8 @@
 <!-- Cabeçalho -->
-<center> <h2> Hello World 👋 </h2>
+## Hello World 👋
+ 
+![gif](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)  
 
-![gif](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif) 
-
-</center>
 
 
 -----------
@@ -12,11 +11,11 @@
 🎹 Músico <br>
 💻 Pós graduando em Desenvolvimento Back-End <br>
 🐧 Apaixonado por tecnologia <br>
-🔍 Em fase de construção de aprendizado
-
+🔍 Em fase de construção de aprendizado <br>
  📫 [Meu Linkedin]() <br><br>
 
-<center> <h2> Meus conhecimentos 💾 </h2> 
+## Meus conhecimentos 💾
+
 <img src="https://icongr.am/devicon/python-original.svg?size=132&color=c74343" width ="50px"><img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width ="50px"><img src="https://icongr.am/devicon/java-original.svg?size=132&color=c74343" width = "50px"><img src="https://icongr.am/devicon/docker-original.svg?size=132&color=1a1919" width = "50px"><img src="https://icongr.am/devicon/linux-original.svg?size=132&color=1a1919" width = "50px">
 
 
@@ -33,7 +32,7 @@
 |Java Developer | [Certificado]() |
 |Sql DataBase Specialist | [Certificado]() |
 
-</center>
+
 <!--
 **keviinoliveira/keviinoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
