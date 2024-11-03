@@ -27,7 +27,7 @@
 |Cursos | Certificado|
 |------|---------|
 |Linux do Zero | [Certificado](https://hermes.dio.me/certificates/BWQD4LNC.pdf) |
-|Python Fundamentals | [Certificado]() |
+|Python Fundamentals | [Certificado](https://hermes.dio.me/certificates/TLYXERQR.pdf) |
 |Python Back End Developer | [Certificado]() |
 |Machine Learning Specialist | [Certificado]() |
 |GitHub Certification | [Certificado](https://hermes.dio.me/certificates/DHT2IECQ.pdf) |
