@@ -29,11 +29,8 @@
 |Linux do Zero | [Certificado](https://hermes.dio.me/certificates/BWQD4LNC.pdf) |
 |Python Fundamentals | [Certificado](https://hermes.dio.me/certificates/TLYXERQR.pdf) |
 |Python Back End Developer | [Certificado]() |
-|Machine Learning Specialist | [Certificado]() |
 |GitHub Certification | [Certificado](https://hermes.dio.me/certificates/DHT2IECQ.pdf) |
-|Docker Fundamentals | [Certificado]() |
-|NodeJs Fundamentals | [Certificado]() |
-|Java Developer | [Certificado]() |
+|Docker Fundamentals | [Certificado](https://hermes.dio.me/certificates/ZJY6FTXR.pdf) |
 |Sql DataBase Specialist | [Certificado]() |
 
 
