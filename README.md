@@ -1,13 +1,6 @@
 <!-- Cabeçalho -->
 ## Hello World 👋
 
-<p align = "center"> 
-
-![gif](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)  
-
-</p>
-
-
 -----------
 👦 Me chamo Kevin Oliveira <br>
 🇧🇷 Brasileiro <br>
