@@ -21,11 +21,8 @@
 |------|---------|
 |Linux do Zero | [Certificado](https://hermes.dio.me/certificates/BWQD4LNC.pdf) |
 |Python Fundamentals | [Certificado](https://hermes.dio.me/certificates/TLYXERQR.pdf) |
-|Python Back End Developer | [Certificado]() |
 |GitHub Certification | [Certificado](https://hermes.dio.me/certificates/DHT2IECQ.pdf) |
 |Docker Fundamentals | [Certificado](https://hermes.dio.me/certificates/ZJY6FTXR.pdf) |
-|Sql DataBase Specialist | [Certificado]() |
-
 
 <!--
 **keviinoliveira/keviinoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
